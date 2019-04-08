@@ -11,6 +11,7 @@ import UIKit
 struct PHConstants {
     static let PHMaxHue = 65535
     static let PHMaxBri = 254
+    static let PHMaxBri1 = 253
 }
 
 class PhilipsHueViewController: DSViewController {
