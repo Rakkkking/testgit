@@ -15,6 +15,7 @@ struct PHConstants {
     static let fenzhi  = 253
     
     static let master = 2
+    static let testfenzhi = 1
 
 }
 
