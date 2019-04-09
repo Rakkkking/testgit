@@ -13,6 +13,8 @@ struct PHConstants {
     static let PHMaxBri = 254
     static let PHMaxBri2 = 253
     static let fenzhi  = 253
+    
+    static let master = 2
 
 }
 
